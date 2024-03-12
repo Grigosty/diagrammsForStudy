@@ -1,9 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T12:31:11.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.1" etag="rVS5zAdzCM5JHH6keUn8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T12:47:09.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ViHXJdBlm-bu7cIddShN" version="24.0.1" type="github">
   <diagram name="Страница — 1" id="djKbJzuQsokqow0sayhv">
-    <mxGraphModel>
+    <mxGraphModel dx="2812" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNl1TWrnZDcBTLNVWtZo-1" target="rNl1TWrnZDcBTLNVWtZo-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.296;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rNl1TWrnZDcBTLNVWtZo-1" target="rNl1TWrnZDcBTLNVWtZo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rNl1TWrnZDcBTLNVWtZo-1" target="rNl1TWrnZDcBTLNVWtZo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rNl1TWrnZDcBTLNVWtZo-1" target="rNl1TWrnZDcBTLNVWtZo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-1" value="Конфигурирование ИС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-4" value="Действия при конфигурировании" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="590" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-5" value="1. Изменение объектной модели&lt;div&gt;2. Определение авторизаций пользователей&lt;/div&gt;&lt;div&gt;3. Настройка интерфейса&lt;/div&gt;&lt;div&gt;4. Создание типовых объектов данных&lt;/div&gt;&lt;div&gt;5. Настройка вариантов развертывания ПК&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rNl1TWrnZDcBTLNVWtZo-4">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-6" value="Объекты конфигурирования" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-7" value="1. Объектная модель&lt;div&gt;2. Пользователь&lt;/div&gt;&lt;div&gt;3. Графический интерфейс&lt;/div&gt;&lt;div&gt;4. Справочники, отчеты, шаблоны&lt;/div&gt;&lt;div&gt;5. Программная реализация функциональных модулей&lt;/div&gt;&lt;div&gt;6. Параметры системных служб и сервисов&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rNl1TWrnZDcBTLNVWtZo-6">
+          <mxGeometry y="30" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNl1TWrnZDcBTLNVWtZo-9" target="rNl1TWrnZDcBTLNVWtZo-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNl1TWrnZDcBTLNVWtZo-9" target="rNl1TWrnZDcBTLNVWtZo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-9" value="Конфигурация сервисов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-13" value="Основные сервисы" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="480" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-15" value="1. Сервис безопасности&lt;div&gt;2. Идентификация и аутентификация&lt;/div&gt;&lt;div&gt;3. Управление&lt;/div&gt;&lt;div&gt;4. Анализ защищенности&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rNl1TWrnZDcBTLNVWtZo-13">
+          <mxGeometry y="30" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-14" value="Вспомогательные сервисы" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-16" value="1. Управление доступом&lt;div&gt;2. Протоколирование и аудит&lt;/div&gt;&lt;div&gt;3. Шифрование&lt;/div&gt;&lt;div&gt;4. Контроль целостности&lt;/div&gt;&lt;div&gt;5. Экранирование&lt;/div&gt;&lt;div&gt;6.Обеспечение отказоустойчивости&lt;/div&gt;&lt;div&gt;7. Обеспечение безопасного восстановления&lt;/div&gt;&lt;div&gt;8. Туннелирование&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rNl1TWrnZDcBTLNVWtZo-14">
+          <mxGeometry y="30" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rNl1TWrnZDcBTLNVWtZo-18" target="rNl1TWrnZDcBTLNVWtZo-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rNl1TWrnZDcBTLNVWtZo-18" target="rNl1TWrnZDcBTLNVWtZo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rNl1TWrnZDcBTLNVWtZo-18" target="rNl1TWrnZDcBTLNVWtZo-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-18" value="Уровни уязвимости сетей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-20" value="Корпоративная сеть без доступа к интернету" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-22" value="Корпоративная сеть с доступом к интернету" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNl1TWrnZDcBTLNVWtZo-24" value="Сеть с активными агентами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
