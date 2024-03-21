@@ -1,9 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T06:50:51.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.5" etag="zTP0xw8ZHeDAJ0rVNwWH" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T06:59:34.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LpAeWaz6QlPNZ0dh96UO" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="da0uBzfj1jAB3R_bi6F4">
-    <mxGraphModel>
+    <mxGraphModel dx="1518" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oiOJhvcX4lkwNwYdjixN-1" target="oiOJhvcX4lkwNwYdjixN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oiOJhvcX4lkwNwYdjixN-1" target="oiOJhvcX4lkwNwYdjixN-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="310" />
+              <mxPoint x="180" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oiOJhvcX4lkwNwYdjixN-1" target="oiOJhvcX4lkwNwYdjixN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oiOJhvcX4lkwNwYdjixN-1" target="oiOJhvcX4lkwNwYdjixN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-1" value="Репозиторий - актуализироемуе хранилище данных" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oiOJhvcX4lkwNwYdjixN-2" target="oiOJhvcX4lkwNwYdjixN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-2" value="Git" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-4" value="Преимущества" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="100" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-6" value="1. Скорость&lt;div&gt;2. Простой дизайн&lt;/div&gt;&lt;div&gt;3. Работа с большими проектами&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oiOJhvcX4lkwNwYdjixN-4">
+          <mxGeometry y="30" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-7" value="Репозиторий-портал" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-9" value="Репозиторий-каталог" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oiOJhvcX4lkwNwYdjixN-11" target="oiOJhvcX4lkwNwYdjixN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oiOJhvcX4lkwNwYdjixN-11" target="oiOJhvcX4lkwNwYdjixN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-11" value="Репозиторий пакетов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-13" value="Система управления пакетами" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="550" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-15" value="1. Бинарные пакеты&lt;div&gt;2. Исходные пакеты&lt;/div&gt;&lt;div&gt;3. Виртуальные пакеты&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oiOJhvcX4lkwNwYdjixN-13">
+          <mxGeometry x="5" y="25" width="220" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-16" value="Метаданные пакета" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="550" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oiOJhvcX4lkwNwYdjixN-18" value="1. Название&lt;div&gt;2. Версия&lt;/div&gt;&lt;div&gt;3. Релиз&lt;/div&gt;&lt;div&gt;4. Упаковщик&lt;/div&gt;&lt;div&gt;5. Зависимости&lt;/div&gt;&lt;div&gt;6. Размер&lt;/div&gt;&lt;div&gt;7. Информация о месте и времени сборки&lt;/div&gt;&lt;div&gt;8. Краткое описание&lt;/div&gt;&lt;div&gt;9. Подробное описание&lt;/div&gt;&lt;div&gt;10. Журнал изменений&lt;/div&gt;&lt;div&gt;11. Группа&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oiOJhvcX4lkwNwYdjixN-16">
+          <mxGeometry y="25" width="200" height="175" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
