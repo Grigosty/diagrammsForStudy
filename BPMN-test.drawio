@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-15T12:02:40.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="BIMDeZoSZG-2s2OcohJx" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-15T12:04:15.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="2ljTrKAmIcCtk1nNvplv" version="24.6.4" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1358" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -33,6 +33,36 @@
         </mxCell>
         <mxCell id="VNyBWMBPQzVlo4JpPKg1-11" value="ЕНС из таблицы 1.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="760" width="110" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VNyBWMBPQzVlo4JpPKg1-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="760" width="50" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VNyBWMBPQzVlo4JpPKg1-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VNyBWMBPQzVlo4JpPKg1-12" target="VNyBWMBPQzVlo4JpPKg1-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="950" as="sourcePoint" />
+            <mxPoint x="490" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNyBWMBPQzVlo4JpPKg1-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="760" width="50" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VNyBWMBPQzVlo4JpPKg1-16" value="Столбцы из таблицы 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VNyBWMBPQzVlo4JpPKg1-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="760" width="50" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VNyBWMBPQzVlo4JpPKg1-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VNyBWMBPQzVlo4JpPKg1-17" target="VNyBWMBPQzVlo4JpPKg1-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="950" as="sourcePoint" />
+            <mxPoint x="790" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VNyBWMBPQzVlo4JpPKg1-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="760" width="50" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VNyBWMBPQzVlo4JpPKg1-20" value="Столбцы из таблицы 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="820" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
